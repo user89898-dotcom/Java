@@ -1,2 +1,2 @@
 # Java Projects &amp; Directories
-This repository is compososed of Java Projects.
+This repository is composed of Java Projects.
